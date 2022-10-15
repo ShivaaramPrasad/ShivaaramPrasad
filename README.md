@@ -8,16 +8,17 @@
 
 A passionate Senior automation test engineer with 6+ years of experience, demonstrated history of development and maintenance of various test automation frameworks spanning across multiple domain / technology that includes Web, API and Mobile applications.
 
-- 🔭 I’m interested in learning new skills to add to my tech stack
+🔭 I’m interested in learning new skills to add to my tech stack
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Docker and kubernetes**
+🌱 I’m currently learning **Data Structures and Algorithms, Docker and kubernetes**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ShivaaramPrasad?tab=repositories)**
+👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ShivaaramPrasad?tab=repositories)**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shivaaramprasad-sdet/**
-- ✉️
+📫 How to reach me **https://www.linkedin.com/in/shivaaramprasad-sdet/**
+
+✉️
 
 
 ## 🚀 Languages and Tools:
