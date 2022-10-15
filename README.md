@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivaaram Prasad</h1>
-<h3 align="center">I'm a passionate SDET -Front End and Back End Automation from India.</h3>
+<h3 align="center">I'm a passionate SDET -Front End and Back End Automation Test Engineer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-A passionate Senior automation engineer with 6+ years of experience, demonstrated history of development and maintenance of various test automation frameworks spanning across multiple domain / technology that includes Web, API and Mobile applications.
+A passionate Senior automation test engineer with 6+ years of experience, demonstrated history of development and maintenance of various test automation frameworks spanning across multiple domain / technology that includes Web, API and Mobile applications.
 
 - 🔭 I’m interested in learning new skills to add to my tech stack
 
