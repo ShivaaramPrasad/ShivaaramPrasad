@@ -27,7 +27,7 @@ A passionate Senior automation test engineer with 6+ years of experience, demons
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
     <a href="https://cucumber.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="cucumberio" width="40" height="40"/> </a>   
- <a href="https://testng.org/doc/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="TestNG" width="40" height="40"/> </a> 
+ <a href="https://testng.org/doc/" target="_blank"> <img src="https://icon2.cleanpng.com/20180816/lih/kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214ead49d1.4247183115344028947098.jpg" alt="TestNG" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a>   
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
