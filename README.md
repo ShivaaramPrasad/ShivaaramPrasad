@@ -21,13 +21,14 @@ A passionate Senior automation test engineer with 6+ years of experience, demons
 ✉️
 
 
-## 🚀 Languages and Tools:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivaaramprasad-sdet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaaramprasad-sdet" height="30" width="40" /></a>
 <a href="https://medium.com/@shivaaramprasad-sdet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivaaramprasad-sdet" height="30" width="40" /></a>
 <a href="https://leetcode.com/shivaaramprasad-sdet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivaaramprasad-sdet/" height="30" width="40" /></a>
 </p>
+## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
